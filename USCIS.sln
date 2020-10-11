@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USCIS", "USCIS\USCIS.csproj", "{DA29C4CE-4088-4DC6-8582-9DE4EC2773D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA29C4CE-4088-4DC6-8582-9DE4EC2773D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA29C4CE-4088-4DC6-8582-9DE4EC2773D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA29C4CE-4088-4DC6-8582-9DE4EC2773D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA29C4CE-4088-4DC6-8582-9DE4EC2773D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
