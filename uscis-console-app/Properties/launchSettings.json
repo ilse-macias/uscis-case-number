@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "uscis-console-app": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "USCIS_CASE_NUMBER": "ENTER_YOUR_CASE_HERE"
+      }
+    }
+  }
+}

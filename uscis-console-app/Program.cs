@@ -14,7 +14,7 @@ namespace uscis_console_app
 
             //TODO: Read case number from environment variable.
 
-            var caseNumber = "todo";
+            var caseNumber = Environment.GetEnvironmentVariable("USCIS_CASE_NUMBER");
             //Case Status
             _driver.FindElement(By.Id("receipt_number"))
                 .SendKeys(caseNumber);
